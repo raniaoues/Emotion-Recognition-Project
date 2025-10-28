@@ -216,27 +216,3 @@ Total comments: 250
 3. Update `config_v2.py` with new queries
 4. Add dependencies to `requirements.txt`
 
----
-
-## 📞 **Support & Contact**
-
-- 🐛 **Issues**: [GitHub Issues](your-repo-url/issues)
-- 💬 **Discussions**: [GitHub Discussions](your-repo-url/discussions)
-- 📧 **Email**: your-email@example.com
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**🇹🇳 Built with ❤️ for Tunisian NLP Research**
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/EmotionRecogn.svg?style=social&label=Star)](https://github.com/your-username/EmotionRecogn)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/EmotionRecogn.svg?style=social&label=Fork)](https://github.com/your-username/EmotionRecogn/fork)
-
-</div>
