@@ -8,7 +8,7 @@ class Config:
     """Configuration class for project settings"""
     
     # API Configuration
-    YOUTUBE_API_KEY = "AIzaSyCDWANBWfOSwnle5CqUxVOv6CjBFQPFRDE"
+    YOUTUBE_API_KEY = ""
     
     # Data Collection Settings
     DEFAULT_MAX_VIDEOS = 10
